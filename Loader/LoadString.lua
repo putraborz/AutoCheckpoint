@@ -6,7 +6,7 @@
 ```lua
 --[[
     Auto Checkpoint - LoadString Loader
-    GitHub: https://github.com/USERNAME/AutoCheckpoint
+    GitHub: https://github.com/putraborz/AutoCheckpoint
 ]]
 
 local RepoURL = "https://raw.githubusercontent.com/putraborz/AutoCheckpoint/main/"
