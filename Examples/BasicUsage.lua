@@ -3,7 +3,7 @@
 ]]
 
 -- Simple LoadString
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/AutoCheckpoint/main/Loader/LoadString.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/putraborz/AutoCheckpoint/main/Loader/LoadString.lua"))()
 
 -- Enable Auto Checkpoint
 _G.AutoCheckpoint = true
